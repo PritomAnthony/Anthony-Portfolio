@@ -1,2 +1,2 @@
 # Anthony-Portfolio  
-A basic portfolio website creating uisng just HTML
+A basic portfolio website created uisng just HTML
